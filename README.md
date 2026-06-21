@@ -510,19 +510,7 @@ Please make sure your code:
 
 ---
 
-## 📄 License
 
-```
-MIT License
-
-Copyright (c) 2025 Your Name
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
-```
 
 See [LICENSE](LICENSE) for full text.
 
@@ -536,21 +524,12 @@ See [LICENSE](LICENSE) for full text.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Ved52-ui)
 
 </div>
 
 ---
 
-## 🌟 Support
-
-If this project helped you, please consider giving it a ⭐ star on GitHub — it helps others discover it!
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/student-management-system&type=Date)](https://star-history.com/#yourusername/student-management-system&Date)
-
-</div>
 
 ---
 
