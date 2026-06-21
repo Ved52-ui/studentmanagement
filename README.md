@@ -3,30 +3,7 @@
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Student%20Management%20System&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Desktop%20ERP%20%7C%20Python%20%2B%20CustomTkinter%20%2B%20MySQL&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Badges Row 1 -->
-<p>
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CustomTkinter-5.2+-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pillow-10.0+-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-</p>
 
-<!-- Badges Row 2 -->
-<p>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-informational?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge"/>
-</p>
-
-<!-- Stars / Forks / Issues -->
-<p>
-  <img src="https://img.shields.io/github/stars/yourusername/student-management-system?style=social"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/yourusername/student-management-system?style=social"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/issues/yourusername/student-management-system?style=social"/>
-</p>
 
 <br/>
 
@@ -41,21 +18,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-| 🏠 Main Dashboard | 📋 Student Form | 📱 QR Code Panel |
-|:-:|:-:|:-:|
-| ![Dashboard](https://via.placeholder.com/380x220/2563EB/ffffff?text=Main+Dashboard) | ![Form](https://via.placeholder.com/380x220/1D4ED8/ffffff?text=Student+Form) | ![QR](https://via.placeholder.com/380x220/16A34A/ffffff?text=QR+Code+Panel) |
-
-| 🔍 Search & Filter | ✏️ Edit Student | 🗑️ Delete Confirm |
-|:-:|:-:|:-:|
-| ![Search](https://via.placeholder.com/380x220/64748B/ffffff?text=Search+Feature) | ![Edit](https://via.placeholder.com/380x220/D97706/ffffff?text=Edit+Student) | ![Delete](https://via.placeholder.com/380x220/DC2626/ffffff?text=Delete+Dialog) |
-
-</div>
-
----
 
 ## ✨ Features
 
